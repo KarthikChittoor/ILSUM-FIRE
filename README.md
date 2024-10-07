@@ -3,6 +3,8 @@ The third edition of ILSUM consist two tasks,  Task 1: Language Summarization Fo
 
 ## Official Site - https://ilsum.github.io/ilsum/2024/index.html
 
+## Files : https://drive.google.com/drive/folders/1Gx0qADUm6qX_wLk1AK9JDkHagKSBJ-Pj?usp=sharing
+
 ## MODELS USED:
 ### Task-1:
   https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum
