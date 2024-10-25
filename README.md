@@ -13,7 +13,7 @@ The third edition of ILSUM consist two tasks,  Task 1: Language Summarization Fo
   
 ## CHALLENGES FACED:
 ### Task-1:
-	1.No Strong Model from HuggingFace
+	1.Could not find a good model specifically for summarization which could handle all the desired languages.
 	2.For kannada -> had to convert to english -> summarize -> back to kannada
 	3.Limited Google Colab RunTime (90 mins only, after that disconnects, free version)
 	4.No GPU on Local PC (3hrs per epoch on colab's t4 GPU, but 72hrs per epoch on my laptop)
