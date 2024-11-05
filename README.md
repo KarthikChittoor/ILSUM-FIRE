@@ -2,8 +2,10 @@
 The third edition of ILSUM consist two tasks,  Task 1: Language Summarization For Indian Languages  Task 2: Detecting Factual Incorrectness in Machine Generated Cross Lingual Summaries
 
 ## Official Site - https://ilsum.github.io/ilsum/2024/index.html
+## Team Name: Curious Coders
+## Results: https://ilsum.github.io/ilsum/2024/Result.html
 
-## Files : https://drive.google.com/drive/folders/1Gx0qADUm6qX_wLk1AK9JDkHagKSBJ-Pj?usp=sharing
+## Files: https://drive.google.com/drive/folders/1Gx0qADUm6qX_wLk1AK9JDkHagKSBJ-Pj?usp=sharing
 
 ## MODELS USED:
 ### Task-1:
