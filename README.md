@@ -1,4 +1,5 @@
 # ILSUM-FIRE
+Refer to the Working Notes file for the entire documentation.
 The third edition of ILSUM consist two tasks,  Task 1: Language Summarization For Indian Languages  Task 2: Detecting Factual Incorrectness in Machine Generated Cross Lingual Summaries
 
 ## Official Site - https://ilsum.github.io/ilsum/2024/index.html
